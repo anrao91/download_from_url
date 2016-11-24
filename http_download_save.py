@@ -1,6 +1,8 @@
 import os
 import urllib2
 
+numbers = []
+
 for number in range(0,10):
     numbers.append(number)
 path_u = "/home/your_directory/"
